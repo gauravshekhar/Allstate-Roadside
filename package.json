@@ -1,0 +1,25 @@
+{
+  "author": "Chris Carrington",
+  "name": "SPA-Kickstart",
+  "description": "Brunch Skeleton",
+  "version": "1.0.0",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "start": "brunch watch --server",
+    "test": "brunch test"
+  },
+  "dependencies": {
+    "coffee-script": "*",
+    "brunch": "<1.7.0",
+    "javascript-brunch": "<1.7.0",
+    "jshint-brunch": "<1.7.0",
+    "clean-css-brunch": "<1.7.0",
+    "css-brunch": "<1.7.0",
+    "uglify-js-brunch": "<1.7.0",
+    "stylus-brunch": "<1.7.0"
+  }
+}
